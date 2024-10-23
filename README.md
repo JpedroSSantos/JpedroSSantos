@@ -1,16 +1,17 @@
-## Hi there 👋
+## Olá! Eu sou o João Pedro 👋
+  
+🌱 Atualmente aprendendo 
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
 
-<!--
-**JpedroSSantos/JpedroSSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Especializado em:
+- ![Networking](https://img.shields.io/badge/-Infraestrutura%20de%20Rede-4D76E0?style=flat-square)
+- ![Security](https://img.shields.io/badge/-Segurança%20de%20Rede-FF3D00?style=flat-square)
+- ![Cloud](https://img.shields.io/badge/-Virtualização%20de%20Redes%20%26%20Nuvem-00A1E4?style=flat-square)
+- ![DevOps](https://img.shields.io/badge/-DevOps-5C2D91?style=flat-square&logo=devops&logoColor=ffffff)
 
-Here are some ideas to get you started:
+📈 Sempre atualizado com as tendências do setor e buscando certificações, como CCNA, CCNP e DevOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Apaixonado por resolver problemas complexos e otimizar soluções de rede.
+  
+📫 Você pode me encontrar em [link para o LinkedIn ou site].
