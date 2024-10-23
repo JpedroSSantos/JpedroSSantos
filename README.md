@@ -5,7 +5,6 @@
 - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
 
 🌐 Especializado em:
-- ![Networking](https://img.shields.io/badge/-Infraestrutura%20de%20Rede-4D76E0?style=flat-square)
 - ![Security](https://img.shields.io/badge/-Segurança%20de%20Rede-FF3D00?style=flat-square)
 - ![Cloud](https://img.shields.io/badge/-Virtualização%20de%20Redes%20%26%20Nuvem-00A1E4?style=flat-square)
 - ![DevOps](https://img.shields.io/badge/-DevOps-5C2D91?style=flat-square&logo=devops&logoColor=ffffff)
