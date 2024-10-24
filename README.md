@@ -13,4 +13,5 @@
 
 🔍 Apaixonado por resolver problemas complexos e otimizar soluções de rede.
   
-📫 Você pode me encontrar em ![Linkedin] https://abrir.link/hHrLF
+📫 Você pode me encontrar em:
+- ![Linkedin](https://abrir.link/hHrLF)
