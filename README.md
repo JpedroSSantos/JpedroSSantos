@@ -13,4 +13,4 @@
 
 🔍 Apaixonado por resolver problemas complexos e otimizar soluções de rede.
   
-📫 Você pode me encontrar em (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) https://abrir.link/hHrLF
+📫 Você pode me encontrar em ![Linkedin] https://abrir.link/hHrLF
