@@ -14,4 +14,4 @@
 🔍 Apaixonado por resolver problemas complexos e otimizar soluções de rede.
   
 📫 Você pode me encontrar em:
-- ![Linkedin] (https://www.linkedin.com/in/jo%C3%A3o-pedro-s-santos-123771144)
+- Linkedin https://www.linkedin.com/in/jo%C3%A3o-pedro-s-santos-123771144
