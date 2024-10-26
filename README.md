@@ -9,7 +9,7 @@
 - ![Cloud](https://img.shields.io/badge/-Virtualização%20de%20Redes%20%26%20Nuvem-00A1E4?style=flat-square)
 - ![DevOps](https://img.shields.io/badge/-DevOps-5C2D91?style=flat-square&logo=devops&logoColor=ffffff)
 
-📈 Sempre atualizado com as tendências do setor e buscando certificações, como CCNA, CCNP e DevOps.
+📈 Sempre atualizado com as tendências do setor e buscando certificações, como CCNA e CyberOps.
 
 🔍 Apaixonado por resolver problemas complexos e otimizar soluções de rede.
   
